@@ -1,0 +1,11 @@
+write the price with only 2 numbers after decimel 
+function to pass through the missing values in nose,palate and finish by finding the name of the whiskey and extracting the values of it
+Dealing with outliers check for Outliers by Z_score for-rating
+Dealing with outliers using IQR for-Reviews
+Dealing with outliers about awards(idk which)
+
+Coorolation between Capacity and Alcohol percentage
+Coorelation between Awards and Rating
+
+
+20 
